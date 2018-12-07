@@ -1,3 +1,3 @@
 ﻿  Lee Algorithm.cpp
-c:\users\theka\documents\00000000uni\notes\year 2\term 1\cmp201\coursework\lee algorithm\lee algorithm\lee algorithm.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Lee Algorithm.vcxproj -> C:\Users\theka\Documents\00000000Uni\Notes\Year 2\Term 1\CMP201\Coursework\Lee Algorithm\Debug\Lee Algorithm.exe
+c:\users\theka\documents\github\data-structures\lee algorithm\lee algorithm\lee algorithm.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lee Algorithm.vcxproj -> C:\Users\theka\Documents\GitHub\Data-Structures\Lee Algorithm\Debug\Lee Algorithm.exe
