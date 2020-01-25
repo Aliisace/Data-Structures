@@ -1,0 +1,8 @@
+﻿  LeeAlgorithm.cpp
+  Generating code
+c:\users\theka\documents\github\data-structures\leealgorithm\leealgorithm\leealgorithm.cpp(145): warning C4715: 'LeeAl': not all control paths return a value
+  9 of 197 functions ( 4.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LeeAlgorithm.vcxproj -> C:\Users\theka\Documents\GitHub\Data-Structures\LeeAlgorithm\Release\LeeAlgorithm.exe
